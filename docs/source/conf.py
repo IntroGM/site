@@ -12,9 +12,8 @@ release = '2022'
 
 extensions = [
     "myst_nb",
-    "numpydoc",
     "sphinx.ext.viewcode",
-    "sphinxcontrib.youtube",
+    #"sphinxcontrib.youtube",
     "sphinx_copybutton",
     "sphinx_design",
     "sphinx_tabs.tabs",
