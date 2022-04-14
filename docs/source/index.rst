@@ -1,7 +1,7 @@
 Introduction to Geodynamic Modelling
 ====================================
 
-The `Helsinki University Geodynamics Group <https://helsinki.fi/geodynamics/>`_ is offering a one-week intensive course May 9-13, 2022 titled "Introduction to geodynamic modelling" for master's/PhD students and interested researchers.
+The `Helsinki University Geodynamics Group <https://helsinki.fi/geodynamics/>`_ is offering a one-week intensive course May 9-13, 2022 titled "Introduction to geodynamic modelling (GEOM_S2041)" for master's/PhD students and interested researchers.
 
 .. figure:: img/LK0042-cropped.gif
    :width: 700 px
