@@ -13,8 +13,6 @@ release = '2022'
 extensions = [
     "myst_nb",
     "numpydoc",
-    "sphinx.ext.autodoc",
-    "sphinx.ext.intersphinx",
     "sphinx.ext.viewcode",
     "sphinxcontrib.youtube",
     "sphinx_copybutton",
@@ -23,14 +21,7 @@ extensions = [
     "sphinx_thebe",
     "sphinx_togglebutton",
     "sphinxcontrib.bibtex",
-    "sphinxext.opengraph",
 ]
-
-intersphinx_mapping = {
-    'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
-}
-intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
