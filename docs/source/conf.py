@@ -19,7 +19,7 @@ extensions = [
     "sphinx_tabs.tabs",
     "sphinx_thebe",
     "sphinx_togglebutton",
-    "sphinxcontrib.bibtex",
+    #"sphinxcontrib.bibtex",
 ]
 
 templates_path = ['_templates']
