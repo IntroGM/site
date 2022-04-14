@@ -29,6 +29,12 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+   :caption: Day 1
+   
+   lessons/day-1/course-overview
+
+.. toctree::
+   :maxdepth: 2
    :caption: Resources
 
    course-info/resources
