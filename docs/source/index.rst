@@ -35,6 +35,12 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+   :caption: Exercises
+
+   course-info/github-classroom
+
+.. toctree::
+   :maxdepth: 2
    :caption: Resources
 
    course-info/resources
