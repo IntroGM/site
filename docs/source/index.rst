@@ -42,6 +42,16 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+   :caption: Day 2
+   
+   lessons/day-2/00-fdbasics
+   lessons/day-2/01-fdhead
+   lessons/day-2/02-stability
+   lessons/day-2/03-diffadv
+
+.. toctree::
+
+   :maxdepth: 2
    :caption: Exercises
 
    course-info/github-classroom
