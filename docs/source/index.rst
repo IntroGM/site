@@ -32,6 +32,11 @@ Contents
    :caption: Day 1
    
    lessons/day-1/course-overview
+   lessons/day-1/python-basics
+   lessons/day-1/functions
+   lessons/day-1/numpy
+   lessons/day-1/for-loops
+   lessons/day-1/conditional-statements   
 
 .. toctree::
    :maxdepth: 2
