@@ -51,6 +51,14 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+   :caption: Day 3
+   
+   lessons/day-3/00-benchmarking
+   lessons/day-3/01-stokes
+   lessons/day-3/02-channel
+
+.. toctree::
+   :maxdepth: 2
    :caption: Exercises
 
    course-info/github-classroom
