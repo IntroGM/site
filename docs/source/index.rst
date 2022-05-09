@@ -33,6 +33,7 @@ Contents
    
    lessons/day-1/course-overview
    lessons/day-1/physical-processes
+   lessons/day-1/solving-equations
    lessons/day-1/python-basics
    lessons/day-1/functions
    lessons/day-1/numpy
