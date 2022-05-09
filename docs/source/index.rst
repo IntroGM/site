@@ -50,7 +50,6 @@ Contents
    lessons/day-2/03-diffadv
 
 .. toctree::
-
    :maxdepth: 2
    :caption: Exercises
 
