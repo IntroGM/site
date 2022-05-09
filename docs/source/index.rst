@@ -45,7 +45,7 @@ Contents
    :caption: Day 2
    
    lessons/day-2/00-fdbasics
-   lessons/day-2/01-fdhead
+   lessons/day-2/01-fdheat
    lessons/day-2/02-stability
    lessons/day-2/03-diffadv
 
