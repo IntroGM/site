@@ -76,3 +76,6 @@ html_theme_options = {
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# Enable auto-generated header anchors
+myst_heading_anchors = 3
