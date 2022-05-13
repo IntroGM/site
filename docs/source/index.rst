@@ -65,6 +65,13 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+   :caption: Technical instructions
+
+   instructions/cluster-use
+
+
+.. toctree::
+   :maxdepth: 2
    :caption: Resources
 
    course-info/resources
