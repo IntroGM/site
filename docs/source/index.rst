@@ -59,6 +59,16 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+   :caption: Day 4
+   
+   lessons/day-4/00-clusters
+   lessons/day-4/01-putting-it-together
+   lessons/day-4/02-marker-in-cell
+   lessons/day-4/03-numerical-diffusion
+   lessons/day-4/04-intro-to-douar
+
+.. toctree::
+   :maxdepth: 2
    :caption: Exercises
 
    course-info/github-classroom
