@@ -91,4 +91,5 @@ Contents
    :caption: Resources
 
    course-info/resources
+   course-info/geodynamics
    course-info/licensing
