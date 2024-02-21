@@ -3,10 +3,10 @@
 # -- Project information
 
 project = 'Introduction to Geodynamic Modelling'
-copyright = '2017-2022, David Whipp and Lars Kaislaniemi, University of Helsinki'
+copyright = '2017-2024, David Whipp and Lars Kaislaniemi, University of Helsinki'
 author = ''
-version = '2022'
-release = '2022'
+version = '2024'
+release = '2024'
 
 # -- General configuration
 
@@ -79,3 +79,4 @@ epub_show_urls = 'footnote'
 
 # Enable auto-generated header anchors
 myst_heading_anchors = 3
+
