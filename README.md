@@ -1,4 +1,5 @@
-# IntroGM 2020
-![deploy-book](https://github.com/IntroGM/2020/workflows/deploy-book/badge.svg)
+# Introduction to Geodynamic Modelling
 
-2020 version of the Introduction to Geodynamic Modelling course website
+[![Documentation Status](https://readthedocs.org/projects/introgm/badge/?version=latest)](https://introgm.readthedocs.io/en/latest/?badge=latest)
+
+GitHub home of the website materials for the Introduction to Geodynamic Modelling course at the University of Helsinki.
