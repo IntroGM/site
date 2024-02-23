@@ -12,13 +12,18 @@ release = '2024'
 
 extensions = [
     "myst_nb",
-    "sphinx.ext.viewcode",
-    #"sphinxcontrib.youtube",
     "sphinx_copybutton",
-    "sphinx_design",
-    "sphinx_tabs.tabs",
+    "sphinx.ext.mathjax",
+    "sphinx.ext.todo",
     "sphinx_thebe",
-    "sphinx_togglebutton",
+    "sphinx.ext.viewcode",
+    "sphinxcontrib.youtube",
+    "IPython.sphinxext.ipython_console_highlighting",
+    "IPython.sphinxext.ipython_directive",
+    "jupyter_sphinx",
+    #"sphinx_design",
+    #"sphinx_tabs.tabs",
+    #"sphinx_togglebutton",
     #"sphinxcontrib.bibtex",
 ]
 
@@ -27,7 +32,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = "sphinx_book_theme"
-html_logo = "img/introgm-logo.png"
+html_logo = "img/introgm-logo-2024.png"
 html_title = ""
 html_copy_source = True
 html_sourcelink_suffix = ""
@@ -74,9 +79,30 @@ html_theme_options = {
     # "show_navbar_depth": 2,
 }
 
+html_context = {
+    # Enable the "Edit in GitHub link within the header of each page.
+    "display_github": True,
+    # Set the following variables to generate the resulting github URL for each page.
+    # Format Template: https://{{ github_host|default("github.com") }}/{{ github_user }}/{{ github_repo }}/blob/{{ github_version }}{{ conf_py_path }}{{ pagename }}{{ suffix }}
+    "github_user": "introgm",
+    "github_repo": "site",
+    "github_version": "main/",
+    "conf_py_path": "/docs/source/",
+}
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
 # Enable auto-generated header anchors
 myst_heading_anchors = 3
+
+# -- Extension configuration -------------------------------------------------
+# Allow errors when parsing pages using nbsphinx
+nbsphinx_allow_errors = True
+
+# Execute cells only if any of the cells is missing output
+jupyter_execute_notebooks = "auto"
+
+# Add math config options for new version of MyST
+myst_enable_extensions = ["dollarmath"]
 

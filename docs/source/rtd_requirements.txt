@@ -1,9 +1,6 @@
 jupyter-book
 sphinx
 sphinx-book-theme
-sphinx-design
-sphinx-tabs
-ipython
 jupyter-sphinx
 pydata-sphinx-theme
 IPython
@@ -14,3 +11,4 @@ matplotlib
 numpy
 pandas
 scipy
+sphinxcontrib-youtube
