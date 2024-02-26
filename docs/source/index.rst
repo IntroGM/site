@@ -1,7 +1,14 @@
 Introduction to Geodynamic Modelling
 ====================================
 
-The `Helsinki University Geodynamics Group <https://helsinki.fi/geodynamics/>`_ is offering a one-week intensive course **May 20–24, 2024** titled "Introduction to geodynamic modelling (GEOM2060)" for master's and doctoral students.
+The `Helsinki University Geodynamics Group <https://helsinki.fi/geodynamics/>`_ is offering a one-week intensive course **May 20–24, 2024** titled "Introduction to geodynamic modelling" for master's and doctoral students.
+
+.. note::
+
+   The course is divided into two parts with separate course codes for registration:
+
+   * **GEOM2060** - Introduction to Geodynamic Modelling (3 cp)
+   * **GEOM2061** - Introduction to Geodynamic Modelling project (2 cp)
 
 .. figure:: img/LK0042-cropped.gif
    :width: 700 px
