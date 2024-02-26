@@ -1,6 +1,12 @@
 Introduction to Geodynamic Modelling
 ====================================
 
+.. figure:: img/LK0042-cropped.gif
+   :width: 700 px
+   :alt: A geodynamic model
+
+   Interactions of erosion and deformation in a geodynamic model.
+
 The `Helsinki University Geodynamics Group <https://helsinki.fi/geodynamics/>`_ is offering a one-week intensive course **May 20–24, 2024** titled "Introduction to geodynamic modelling" for master's and doctoral students.
 
 .. note::
@@ -9,12 +15,6 @@ The `Helsinki University Geodynamics Group <https://helsinki.fi/geodynamics/>`_ 
 
    * **GEOM2060** - Introduction to Geodynamic Modelling (3 cp)
    * **GEOM2061** - Introduction to Geodynamic Modelling project (2 cp)
-
-.. figure:: img/LK0042-cropped.gif
-   :width: 700 px
-   :alt: A geodynamic model
-
-   Interactions of erosion and deformation in a geodynamic model.
 
 Course goals
 ------------
