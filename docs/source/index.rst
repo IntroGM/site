@@ -97,6 +97,7 @@ Contents
    :maxdepth: 2
    :caption: Resources
 
-   course-info/resources
    course-info/geodynamics
+   course-info/resources
+   course-info/software
    course-info/licensing
