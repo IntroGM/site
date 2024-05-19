@@ -82,12 +82,13 @@ Contents
        lessons/day-5/00-douar-plasticity
        lessons/day-5/01-project-overview
     
-    .. toctree::
-       :maxdepth: 2
-       :caption: Exercises
+.. toctree::
+   :maxdepth: 2
+   :caption: Exercises
+
+   course-info/github-classroom
     
-       course-info/github-classroom
-    
+.. 
     .. toctree::
        :maxdepth: 2
        :caption: Technical instructions
