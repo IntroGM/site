@@ -31,8 +31,10 @@ Contents
    :caption: Course information
 
    course-info/general-info
+   course-info/course-environment
    course-info/learning-goals
    course-info/grading
+   course-info/ai-tools
 
 .. toctree::
    :maxdepth: 2
