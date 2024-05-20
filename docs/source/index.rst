@@ -31,22 +31,25 @@ Contents
    :caption: Course information
 
    course-info/general-info
+   course-info/course-environment
    course-info/learning-goals
    course-info/grading
-.. 
-    .. toctree::
-       :maxdepth: 2
-       :caption: Day 1
-       
-       lessons/day-1/00-course-overview
-       lessons/day-1/01-physical-processes
-       lessons/day-1/02-solving-equations
-       lessons/day-1/03-python-basics
-       lessons/day-1/04-functions
-       lessons/day-1/05-numpy
-       lessons/day-1/06-for-loops
-       lessons/day-1/07-conditional-statements   
-    
+   course-info/ai-tools
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Day 1
+   
+   lessons/day-1/00-course-overview
+   lessons/day-1/01-physical-processes
+   lessons/day-1/02-solving-equations
+   lessons/day-1/03-python-basics
+   lessons/day-1/04-functions
+   lessons/day-1/05-numpy
+   lessons/day-1/06-for-loops
+   lessons/day-1/07-conditional-statements   
+
+..     
     .. toctree::
        :maxdepth: 2
        :caption: Day 2
@@ -81,12 +84,13 @@ Contents
        lessons/day-5/00-douar-plasticity
        lessons/day-5/01-project-overview
     
-    .. toctree::
-       :maxdepth: 2
-       :caption: Exercises
+.. toctree::
+   :maxdepth: 2
+   :caption: Exercises
+
+   course-info/github-classroom
     
-       course-info/github-classroom
-    
+.. 
     .. toctree::
        :maxdepth: 2
        :caption: Technical instructions
@@ -97,6 +101,7 @@ Contents
    :maxdepth: 2
    :caption: Resources
 
-   course-info/resources
    course-info/geodynamics
+   course-info/resources
+   course-info/software
    course-info/licensing
