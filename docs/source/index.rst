@@ -49,16 +49,16 @@ Contents
    lessons/day-1/06-for-loops
    lessons/day-1/07-conditional-statements   
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Day 2
+   
+   lessons/day-2/00-fdbasics
+   lessons/day-2/01-fdheat
+   lessons/day-2/02-stability
+   lessons/day-2/03-diffadv
+
 ..     
-    .. toctree::
-       :maxdepth: 2
-       :caption: Day 2
-       
-       lessons/day-2/00-fdbasics
-       lessons/day-2/01-fdheat
-       lessons/day-2/02-stability
-       lessons/day-2/03-diffadv
-    
     .. toctree::
        :maxdepth: 2
        :caption: Day 3
