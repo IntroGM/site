@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Introduction to Geodynamic Modelling'
-copyright = '2017-2024, David Whipp and Lars Kaislaniemi, University of Helsinki'
+copyright = '2017-2024, David Whipp, Lars Kaislaniemi, and Leevi Tuikka, University of Helsinki'
 author = ''
 version = '2024'
 release = '2024'
