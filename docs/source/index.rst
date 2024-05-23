@@ -66,17 +66,17 @@ Contents
    lessons/day-3/01-stokes
    lessons/day-3/02-channel
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Day 4
+   
+   lessons/day-4/00-clusters
+   lessons/day-4/01-putting-it-together
+   lessons/day-4/02-marker-in-cell
+   lessons/day-4/03-numerical-diffusion
+   lessons/day-4/04-intro-to-aspect
+
 .. 
-    .. toctree::
-       :maxdepth: 2
-       :caption: Day 4
-       
-       lessons/day-4/00-clusters
-       lessons/day-4/01-putting-it-together
-       lessons/day-4/02-marker-in-cell
-       lessons/day-4/03-numerical-diffusion
-       lessons/day-4/04-intro-to-douar
-    
     .. toctree::
        :maxdepth: 2
        :caption: Day 5
@@ -90,12 +90,11 @@ Contents
 
    course-info/github-classroom
     
-.. 
-    .. toctree::
-       :maxdepth: 2
-       :caption: Technical instructions
-    
-       instructions/cluster-use
+.. toctree::
+   :maxdepth: 2
+   :caption: Technical instructions
+
+   instructions/cluster-use
 
 .. toctree::
    :maxdepth: 2
