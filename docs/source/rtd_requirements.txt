@@ -12,3 +12,4 @@ numpy
 pandas
 scipy
 sphinxcontrib-youtube
+sphinx-thebe
