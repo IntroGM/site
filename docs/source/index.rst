@@ -7,7 +7,7 @@ Introduction to Geodynamic Modelling
 
    Interactions of erosion and deformation in a geodynamic model.
 
-The `Helsinki University Geodynamics Group <https://helsinki.fi/geodynamics/>`_ is offering a one-week intensive course **May 20–24, 2024** titled "Introduction to geodynamic modelling" for master's and doctoral students.
+The `Helsinki University Geodynamics Group <https://helsinki.fi/geodynamics/>`_ is offering a one-week intensive course **May 18-22, 2026** titled "Introduction to geodynamic modelling" for master's and doctoral students.
 
 .. note::
 
@@ -36,63 +36,64 @@ Contents
    course-info/grading
    course-info/ai-tools
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Day 1
-   
-   lessons/day-1/00-course-overview
-   lessons/day-1/01-physical-processes
-   lessons/day-1/02-solving-equations
-   lessons/day-1/03-python-basics
-   lessons/day-1/04-functions
-   lessons/day-1/05-numpy
-   lessons/day-1/06-for-loops
-   lessons/day-1/07-conditional-statements   
+.. 
+   .. toctree::
+      :maxdepth: 2
+      :caption: Day 1
+      
+      lessons/day-1/00-course-overview
+      lessons/day-1/01-physical-processes
+      lessons/day-1/02-solving-equations
+      lessons/day-1/03-python-basics
+      lessons/day-1/04-functions
+      lessons/day-1/05-numpy
+      lessons/day-1/06-for-loops
+      lessons/day-1/07-conditional-statements   
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Day 2
-   
-   lessons/day-2/00-fdbasics
-   lessons/day-2/01-fdheat
-   lessons/day-2/02-stability
-   lessons/day-2/03-diffadv
+   .. toctree::
+      :maxdepth: 2
+      :caption: Day 2
+      
+      lessons/day-2/00-fdbasics
+      lessons/day-2/01-fdheat
+      lessons/day-2/02-stability
+      lessons/day-2/03-diffadv
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Day 3
-   
-   lessons/day-3/00-benchmarking
-   lessons/day-3/01-stokes
-   lessons/day-3/02-channel
+   .. toctree::
+      :maxdepth: 2
+      :caption: Day 3
+      
+      lessons/day-3/00-benchmarking
+      lessons/day-3/01-stokes
+      lessons/day-3/02-channel
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Day 4
-   
-   lessons/day-4/00-clusters
-   lessons/day-4/01-putting-it-together
-   lessons/day-4/02-marker-in-cell
-   lessons/day-4/03-numerical-diffusion
-   lessons/day-4/04-intro-to-aspect
+   .. toctree::
+      :maxdepth: 2
+      :caption: Day 4
+      
+      lessons/day-4/00-clusters
+      lessons/day-4/01-putting-it-together
+      lessons/day-4/02-marker-in-cell
+      lessons/day-4/03-numerical-diffusion
+      lessons/day-4/04-intro-to-aspect
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Day 5
-   
-   lessons/day-5/00-project-overview
-    
-.. toctree::
-   :maxdepth: 2
-   :caption: Exercises
+   .. toctree::
+      :maxdepth: 2
+      :caption: Day 5
+      
+      lessons/day-5/00-project-overview
+      
+   .. toctree::
+      :maxdepth: 2
+      :caption: Exercises
 
-   course-info/github-classroom
-    
-.. toctree::
-   :maxdepth: 2
-   :caption: Technical instructions
+      course-info/github-classroom
+      
+   .. toctree::
+      :maxdepth: 2
+      :caption: Technical instructions
 
-   instructions/cluster-use
+      instructions/cluster-use
 
 .. toctree::
    :maxdepth: 2
