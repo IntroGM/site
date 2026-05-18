@@ -33,6 +33,7 @@ html_copy_source = True
 html_sourcelink_suffix = ""
 #html_favicon = "_static/logo-square.svg"
 html_last_updated_fmt = ""
+html_static_path = ["_static"]
 
 #html_sidebars = {
 #    "reference/blog/*": [
