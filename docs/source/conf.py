@@ -3,16 +3,15 @@
 # -- Project information
 
 project = 'Introduction to Geodynamic Modelling'
-copyright = '2017-2024, David Whipp, Lars Kaislaniemi, and Leevi Tuikka, University of Helsinki'
+copyright = '2017-2026, David Whipp, Lars Kaislaniemi, and Leevi Tuikka, University of Helsinki'
 author = ''
-version = '2024'
-release = '2024'
+version = '2026'
+release = '2026'
 
 # -- General configuration
 
 extensions = [
     "myst_nb",
-    "sphinx_copybutton",
     "sphinx.ext.mathjax",
     "sphinx.ext.todo",
     "sphinx_thebe",
@@ -21,10 +20,6 @@ extensions = [
     "IPython.sphinxext.ipython_console_highlighting",
     "IPython.sphinxext.ipython_directive",
     "jupyter_sphinx",
-    #"sphinx_design",
-    #"sphinx_tabs.tabs",
-    #"sphinx_togglebutton",
-    #"sphinxcontrib.bibtex",
 ]
 
 templates_path = ['_templates']
