@@ -76,12 +76,11 @@ Contents
   lessons/day-4/03-numerical-diffusion
   lessons/day-4/04-intro-to-aspect
 
-.. 
-   .. toctree::
-      :maxdepth: 2
-      :caption: Day 5
-      
-      lessons/day-5/00-project-overview
+.. toctree::
+  :maxdepth: 2
+  :caption: Day 5
+  
+  lessons/day-5/00-project-overview
       
 .. toctree::
   :maxdepth: 2
@@ -89,12 +88,11 @@ Contents
 
   course-info/github-classroom
 
-.. 
-   .. toctree::
-      :maxdepth: 2
-      :caption: Technical instructions
+.. toctree::
+  :maxdepth: 2
+  :caption: Technical instructions
 
-      instructions/cluster-use
+  instructions/aspect-noppe
 
 .. toctree::
    :maxdepth: 2
